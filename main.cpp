@@ -1,8 +1,8 @@
-// Monty Hall Problem Simulation to show a 50/50 chance of winning when switching.
+// Monty Hall Problem Simulation to show a the results when switching and when not switching.
 // This simulation enacts the exact conditions of the Monty Hall Problem 10,000 times. 
 // Also shows a 1/3rd chance of winning when choosing not to switch.
-// It is more advantageous to switch, but it is most definitely not a 2/3 ratio.
-// This Simulation proves the standard conjecture incorrect through experimentation.
+// It is more advantageous to switch, but it is not a 2/3 ratio.
+// This Simulation suggest the standard conjecture is incorrect through experimentation.
 
 // This simulation has been Created by John McClain for the purposes of exploration
 // into the wonderful world of computer simulation, Have a nice day.
