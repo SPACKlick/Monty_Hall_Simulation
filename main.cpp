@@ -116,7 +116,7 @@ void reveal_goat(Door* Doors , int Choice){
     }
     
     if(Doors[2].is_Car && Choice == 2){        
-        Doors[(2 - rand()%2 )].goat_Revealed = true;        
+        Doors[(1 - rand()%2 )].goat_Revealed = true;        
     } // Third Door Potential Goat Condition
     //===========================================
 } // This selects of of the "Not Car" Doors to reveal.
